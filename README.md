@@ -1,4 +1,4 @@
-This project was created as part of the UX design course. All models are created in Maya, textures are created using Substance Painter.
+This project was created as part of the UX design course. All models are created in Maya, textures are created using Substance Painter. 
 The room is a rectangular room with cabinets for storing and quickly finding information.
 There is a paper shredder on the left side of the room. In the middle there are filing cabinets. 
 On the right is a paper trolley, which contains new folders with information and those folders that you need to use.
